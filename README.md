@@ -1,2 +1,2 @@
-# machine_learning_fpga_library
-A Machine Learning Library in Verilog/VHDL for FPGAs / ASIC 
+# Machine Learning Fpga Library (MLFL)
+A Machine Learning Library in Verilog (and VHDL) for FPGAs
